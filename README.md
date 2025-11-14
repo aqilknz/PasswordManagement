@@ -5,7 +5,6 @@
 # Dosen       : Abdul Azzam Ajhari, S.Kom., M.Kom
 
 A new Flutter project.
-Output: (Tugas 1 - Output - Ahmad Aqil Khairun Nadzar.png)
 
 This project is a starting point for a Flutter application.
 
