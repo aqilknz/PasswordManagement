@@ -1,8 +1,11 @@
-# test_app
+# Nama        : Ahmad Aqil Khairun Nadzar
+# Kelas       : IF-701
+# NIM         : 230401010133
+# Mata Kuliah : Pemrograman Bergerak
+# Dosen       : Abdul Azzam Ajhari, S.Kom., M.Kom
 
 A new Flutter project.
-
-## Getting Started
+Output: (Tugas 1 - Output - Ahmad Aqil Khairun Nadzar.png)
 
 This project is a starting point for a Flutter application.
 
